@@ -62,5 +62,12 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-07 155020" src="https://github.com/user-attachments/assets/ebe12718-6226-4a05-a229-7fc8c51214ec" />
+
 ## Output
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-07 155036" src="https://github.com/user-attachments/assets/3767419c-9e51-4a99-b476-97c3f9582378" />
+
 ## Result
+Thus the given experiment is simulated and verified successfully.
